@@ -22,7 +22,7 @@ Businesses need clear visibility into sales performance to make data-driven deci
 📷 Dashboard Preview
 ![Dashboard](Dashboard.png)
 
- 🚀 Project Outcome
+ 🚀 Project Outcome: 
 Built an interactive dashboard enabling stakeholders to monitor KPIs and make informed business decisions.
 
 Author:Shravani Kola
